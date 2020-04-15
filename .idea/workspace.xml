@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6619f81b-bb3b-4d1d-93f5-8c1b77889712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZq4GHJd52N83cHse0nccic3MM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="messaging" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Lab09 (2)">
+    <configuration name="All in Lab09 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab09" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Lab09 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab09" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Lab09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab09" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unittests in test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Lab09" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Lab09 (2)" />
+        <item itemvalue="JUnit.All in Lab09 (1)" />
+        <item itemvalue="JUnit.All in Lab09" />
+        <item itemvalue="Python tests.Unittests in test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6619f81b-bb3b-4d1d-93f5-8c1b77889712" name="Default Changelist" comment="" />
+      <created>1586953270593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586953270593</updated>
+      <workItem from="1586953272049" duration="3611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="56" key="#Unittests_in_test" timestamp="1586955337271">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="415" y="56" key="#Unittests_in_test/0.23.1440.877@0.23.1440.877" timestamp="1586955337271" />
+    <state x="830" y="100" width="510" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586956139793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="830" y="100" width="510" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1586956139793" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1586954246655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586954246655" />
+    <state width="668" height="230" key="GridCell.Tab.0.bottom" timestamp="1586956142190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="668" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586956142190" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586955600772" />
+    <state width="668" height="230" key="GridCell.Tab.0.center" timestamp="1586956142189">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="668" height="230" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586956142189" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586955600771" />
+    <state width="668" height="230" key="GridCell.Tab.0.left" timestamp="1586956142188">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="668" height="230" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586956142188" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586955600771" />
+    <state width="668" height="230" key="GridCell.Tab.0.right" timestamp="1586956142189">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="668" height="230" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586956142189" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586955600771" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1586953449209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1586953449209" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1586955445165">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1586955445165" />
+    <state x="864" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586954020293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="864" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1586954020293" />
+  </component>
+</project>
